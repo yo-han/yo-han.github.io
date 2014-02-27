@@ -2,5 +2,6 @@
 published: true
 title: Testing 
 layout: post
+categories: [test]
 ---
 Hello Git!
